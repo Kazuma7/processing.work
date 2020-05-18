@@ -4,5 +4,5 @@ void setup(){
 }
 
 void draw(){
-  circle(random(500),random(500),random(60));
+  circle(random(500),random(500),random(50));
 }
